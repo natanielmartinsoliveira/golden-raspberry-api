@@ -31,7 +31,7 @@ git clone https://github.com/seu-usuario/golden-raspberry-api.git
 Navegue até o diretório do projeto:
 
 ```bash
-    cd golden-raspberry-api
+cd golden-raspberry-api
 ```
 
 
