@@ -60,7 +60,7 @@ A aplicação será iniciada e estará disponível em: http://localhost:3000.
 
 Obter produtores com maior e menor intervalo entre vitórias consecutivas
 
-GET /movies/producers
+GET /awards/producers
 
 Retorna os produtores com o maior intervalo entre dois prêmios consecutivos e o menor intervalo entre prêmios.
 
@@ -97,8 +97,8 @@ Execute os testes de integração com o seguinte comando:
 
 ```bash
 
-npm run test
+npm run test:e2e
 # ou
-yarn test
+yarn test:e2e
 
 ```
