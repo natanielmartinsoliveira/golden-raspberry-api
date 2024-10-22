@@ -9,10 +9,10 @@ Consulta de produtores: Obtenha o produtor com o maior intervalo entre prêmios 
 
 ## Tecnologias Utilizadas
 
-    1.[Karma](https://nestjs.com/)
-    2.[SQLite](https://www.sqlite.org/) (banco de dados em memória)
-    3.[TypeORM](https://typeorm.io/)
-    4.[csv-parser](https://www.npmjs.com/package/csv-parser)
+    1.Karma [Karma](https://nestjs.com/)
+    2.SQLite [SQLite](https://www.sqlite.org/) (banco de dados em memória)
+    3.TypeORM [TypeORM](https://typeorm.io/)
+    4.csv-parser [csv-parser](https://www.npmjs.com/package/csv-parser)
 
 ## Requisitos
 
