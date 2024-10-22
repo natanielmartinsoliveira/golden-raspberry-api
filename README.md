@@ -37,15 +37,14 @@ Navegue até o diretório do projeto:
 
 Instale as dependências:
 
-````bash
-
+```bash
 npm install
-
+```
 
 
 ## Rodando a Aplicação
 
-    Inicie o servidor NestJS:
+Inicie o servidor NestJS:
 
 ```bash
 npm run start
@@ -54,6 +53,7 @@ yarn start
 # ou
 yarn install
 ```
+
 A aplicação será iniciada e estará disponível em: http://localhost:3000.
 
 ## Endpoints
@@ -100,3 +100,5 @@ Execute os testes de integração com o seguinte comando:
 npm run test
 # ou
 yarn test
+
+```
